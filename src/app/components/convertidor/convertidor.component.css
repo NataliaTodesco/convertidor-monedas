@@ -1,0 +1,13 @@
+.badge{
+    margin: 2px;
+    font-size: 150%;
+}
+label{
+    font-size: 150%;
+    color: white;
+}
+.container{
+    background: linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7));
+    border-radius: 8px;
+    padding: 5% 7%;
+}
